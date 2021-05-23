@@ -111,9 +111,9 @@ print(email_body)
 
 port = 587  # For SSL
 smtp_server = "smtp.gmail.com"
-password = "Aiyad123"
-sender_email = "notification.product.123@gmail.com"
-receiver_email = "ashif_eee@yahoo.com;saifullah.ali009@hotmail.com"
+password = "%$$$"
+sender_email = "notificati.product.13@gmail.com"
+receiver_email = "abcd"
 message = """\
 Subject:[DoNotReply] Automated Notification
 
